@@ -1,6 +1,8 @@
 ### Hi there, I'm Fibbery👋
 
-掘金主页 ：https://juejin.im/user/5a280c59f265da431f4af414
+#### 💬 Contact
+
+[掘金主页](https://juejin.im/user/5a280c59f265da431f4af414)
 
 #### 🌈 My Github State
 [![fibbery's github stats](https://github-readme-stats.vercel.app/api?username=fibbery&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
